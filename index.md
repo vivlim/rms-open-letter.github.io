@@ -1580,60 +1580,61 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vitor "Krammer" Cardoso
 1. Vivek Das Mohapatra (Collabora)
 1. Vivia Nikolaidou (GStreamer)
-1. Vojtěch Vengrin (Gnome translator)
-1. Volkan Yazıcı (Apache Logging Services PMC)
-1. Vyivel
-1. Ward Vandewege (Former FSF staff and FSF member)
-1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
-1. Wendy Bolm (Chief Operations Officer, CommitChange)
-1. Wendy Seltzer
-1. Werner Mahr
-1. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
-1. Weston Steimel
-1. Wheeler Law (Red Hat Inc.)
-1. whitequark
-1. Will Barton
-1. Will Greenberg (EFF, signing in personal capacity)
-1. Will Hawkins
-1. Will Hunt (`Half-Shot`)
-1. William D. Jones (`cr1901`)
-1. William Denton
-1. William Gathoye (Collabora)
-1. William Kroes
-1. William Starkey
-1. William Theaker (Former FSF staff member)
-1. Williham Williham Totland
-1. Will Lachance (Mozilla)
-1. Wilson "Chilly" Hightower
-1. Wim Taymans (PipeWire, GStreamer)
-1. Wolthera van Hövell (Krita/KDE)
-1. Wulf C. Krueger (Exherbo Linux)
-1. Xabier Rodríguez Calvar
-1. Xavier Claessens (Collabora)
-1. Xavier Tilley
-1. Xavi Francisco
-1. Xav Paice
-1. Yadav Lamichhane
-1. Yangwook Jeong (@Yangeok)
-1. Yann Ramin
-1. Yao Li (former FSF Monthly Student Associate Member)
-1. Yaroslav Kargapolov
-1. Yegor Timoshenko (NixOS contributor)
-1. Yorik van Havre
-1. Youko Omori (Collabora)
-1. Youngbin Han (Ubuntu Korea Community)
-1. Young Hun Kim
-1. Yo Yehudi (Co-founder of Open Life Science)
-1. Yuval Adam
-1. Yuvi Panda (Project Jupyter)
-1. Yu-Wei Wu
-1. Yvan Sraka
-1. Yvonne Lam
-1. Zac Adam-MacEwen (Arcana Labs)
-1. Zach Klippenstein (aka @zach-klippenstein, Square)
-1. Zach Lipton
-1. Zach van Rijn
-1. Zack Cerza
-1. Zeltzin Rodríguez
-1. Zvi Gilboa
+1. Vivian Lim (Microsoft)
+3. Vojtěch Vengrin (Gnome translator)
+4. Volkan Yazıcı (Apache Logging Services PMC)
+5. Vyivel
+6. Ward Vandewege (Former FSF staff and FSF member)
+7. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
+8. Wendy Bolm (Chief Operations Officer, CommitChange)
+9. Wendy Seltzer
+10. Werner Mahr
+11. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
+12. Weston Steimel
+13. Wheeler Law (Red Hat Inc.)
+14. whitequark
+15. Will Barton
+16. Will Greenberg (EFF, signing in personal capacity)
+17. Will Hawkins
+18. Will Hunt (`Half-Shot`)
+19. William D. Jones (`cr1901`)
+20. William Denton
+21. William Gathoye (Collabora)
+22. William Kroes
+23. William Starkey
+24. William Theaker (Former FSF staff member)
+25. Williham Williham Totland
+26. Will Lachance (Mozilla)
+27. Wilson "Chilly" Hightower
+28. Wim Taymans (PipeWire, GStreamer)
+29. Wolthera van Hövell (Krita/KDE)
+30. Wulf C. Krueger (Exherbo Linux)
+31. Xabier Rodríguez Calvar
+32. Xavier Claessens (Collabora)
+33. Xavier Tilley
+34. Xavi Francisco
+35. Xav Paice
+36. Yadav Lamichhane
+37. Yangwook Jeong (@Yangeok)
+38. Yann Ramin
+39. Yao Li (former FSF Monthly Student Associate Member)
+40. Yaroslav Kargapolov
+41. Yegor Timoshenko (NixOS contributor)
+42. Yorik van Havre
+43. Youko Omori (Collabora)
+44. Youngbin Han (Ubuntu Korea Community)
+45. Young Hun Kim
+46. Yo Yehudi (Co-founder of Open Life Science)
+47. Yuval Adam
+48. Yuvi Panda (Project Jupyter)
+49. Yu-Wei Wu
+50. Yvan Sraka
+51. Yvonne Lam
+52. Zac Adam-MacEwen (Arcana Labs)
+53. Zach Klippenstein (aka @zach-klippenstein, Square)
+54. Zach Lipton
+55. Zach van Rijn
+56. Zack Cerza
+57. Zeltzin Rodríguez
+58. Zvi Gilboa
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
