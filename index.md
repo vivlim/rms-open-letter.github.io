@@ -400,7 +400,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dakota Hoornsman
 1. Dakota "Kai" Lyons (owner, Fivnex.co)
 1. Dale Hirt
-1. Daltro Augusto (@daltroaugusto)
 1. Dan Arel (owner, ThinkPrivacy.ch)
 1. Dan Bornstein (@danfuzz)
 1. Dan Cross
@@ -1581,6 +1580,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vitor "Krammer" Cardoso
 1. Vivek Das Mohapatra (Collabora)
 1. Vivia Nikolaidou (GStreamer)
+1. Vivian Lim (Microsoft)
 1. Vojtěch Vengrin (Gnome translator)
 1. Volkan Yazıcı (Apache Logging Services PMC)
 1. Vyivel
